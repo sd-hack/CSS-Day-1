@@ -1,1 +1,21 @@
 # CSS-Day-1
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction to CSS</title>
+    <style>
+        body {
+            background-color: lightgray;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: blue;
+            font-size: 36px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Introduction to CSS</h1>
+</body>
+</html>
